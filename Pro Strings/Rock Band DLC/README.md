@@ -4,6 +4,7 @@
 | :--------: | :-------: | :---------------: | :------------: |
 | Head Over Feet | Alanis Morissette | G: E Standard<br>B: E Standard | same as in-game |
 | Ironic | Alanis Morissette | G: E Standard<br>B: E Standard | G: A Standard (E Standard, capo on 4th fret)<br>B: same as in-game |
+| Party Hard | Andrew W.K. | G: E Standard<br>B: E Standard | same as in-game |
 | No Regrets | Authority Zero | G: E Standard<br>B: E Standard | same as in-game |
 | So Far Away | Avenged Sevenfold | G: E Standard<br>B: E Standard | same as in-game |
 | Night Fever | Bee Gees | G: E Standard<br>B: E Standard | same as in-game |
@@ -19,9 +20,11 @@
 | Bounce | The Cab | G: E Standard<br>B: E Standard | same as in-game |
 | Call Me Maybe | Carly Rae Jepsen | G: E Standard<br>B: E Standard | same as in-game |
 | Fix You | Coldplay | G: E Standard <br> B: E Standard | G: Eb Standard <br> B: same as in-game |
+| The Scientist | Coldplay | G: E Standard<br>B: E Standard | G: F Standard (E Standard, capo on 1st Fret)<br> B: same as in-game |
 | Linger | The Cranberries | G: E Standard<br>B: E Standard | same as in-game |
 | Child in Time | Deep Purple | G: E Standard<br>B: E Standard | same as in-game |
 | Space Truckin' | Deep Purple | G: E Standard<br>B: E Standard | same as in-game |
+| Landslide | Fleetwood Mac | G: E Standard | G: G Standard (E Standard, capo on 3rd fret) |
 | Rhiannon | Fleetwood Mac | G: E Standard<br>B: E Standard | same as in-game |
 | Feel Good Inc. | Gorillaz | G: E Standard<br>B: E Standard | G: E Standard<br> Eb Standard |
 | Countdown to Insanity | H-Blockx | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
@@ -34,6 +37,7 @@
 | Burn It Down | Linkin Park | G: E Standard<br>B: Drop D | same as in-game |
 | Numb | Linkin Park | G: Drop D<br>B: Drop D | G: Eb Drop Db<br>B: Eb Drop Db |
 | Shadow of the Day | Linkin Park | G: E Standard<br>B: E Standard | same as in-game |
+| Darling Dear | Little Fish | G: E Standard<br>B: E Standard | same as in-game |
 | Party in the U.S.A. | Miley Cyrus | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Use It | The New Pornographers | G: E Standard<br>B: E Standard | same as in-game |
 | Hella Good | No Doubt | G: E Standard<br>B: E Standard | same as in-game |
@@ -70,5 +74,3 @@
 | Pork and Beans | Weezer | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Seven Nation Army | The White Stripes | G: E Standard<br>B: E Standard | same as in-game |
 | She's Not There | The Zombies | G: E Standard<br>B: E Standard | same as in-game |
-
-| The Scientist | Coldplay | G: E Standard<br>B: E Standard | G: F Standard (E Standard, capo on 1st Fret)<br> B: same as in-game |
