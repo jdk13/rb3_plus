@@ -11,6 +11,7 @@
 | Night Fever | Bee Gees | G: E Standard<br>B: E Standard | same as in-game |
 | You Should Be Dancing | Bee Gees | G: E Standard<br>B: E Standard | same as in-game |
 | Mony Mony | Billy Idol | G: E Standard<br>B: E Standard | same as in-game |
+| What a Horrible Night to Have a Curse | The Black Dahlia Murder | G: E Standard<br>B: E Standard | G: C Standard<br>B: C Standard |
 | What's My Age Again? | Blink-182 | G: E Standard<br>B: E Standard | same as in-game |
 | It's My Life | Bon Jovi | G: E Standard<br>B: Drop D | G: E Standard<br>B: D Drop C |
 | The Diary of Jane | Breaking Benjamin | G: Drop D<br>B: Drop D | G: C Drop Bb<br>B: C Drop Bb |
@@ -52,6 +53,7 @@
 | Hysteria | Muse | G: E Standard<br>B: E Standard | same as in-game |
 | Use It | The New Pornographers | G: E Standard<br>B: E Standard | same as in-game |
 | Last | Nine Inch Nails | G: Drop D<br>B: Drop D | same as in-game |
+| Terrible Lie | Nine Inch Nails | G: E Standard<br>B: E Standard | same as in-game |
 | Blew | Nirvana | G: DADGBF<br>B: E Standard | G: CGCFAD#<br>B: C Standard
 | School | Nirvana | G: E Standard<br>B: E Standard | same as in-game |
 | Hella Good | No Doubt | G: E Standard<br>B: E Standard | same as in-game |
@@ -84,6 +86,7 @@
 | The Righteous and The Wicked | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | G: same as in-game<br>B: B Standard |
 | They're Red Hot | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
 | Dragula | Rob Zombie | G: Drop D<br>B: E Standard | G: D Drop C<br>B: C Standard |
+| Caravan | Rush | G: E Standard<br>B: E Standard | same as in-game |
 | Tom Sawyer (Original Version) | Rush | G: E Standard<br>B: E Standard | same as in-game |
 | YYZ | Rush | G: E Standard<br>B: E Standard | same as in-game |
 | They Say | Scars On Broadway | G: Drop D<br>B: Drop D | G: Drop C#<br>B: Drop C# |
@@ -94,6 +97,7 @@
 | Toxicity | System of a Down | G: Drop D<br>B: Drop D | G: D Drop C<br>B: D Drop C |
 | Head Over Heels | Tears for Fears | G: E Standard<br>B: E Standard | same as in-game |
 | Animal I Have Become | Three Days Grace | G: Drop D<br>B: Drop D | G: D Drop C<br>B: D Drop C  |
+| I Hate Everything About You | Three Days Grace | G: Drop D<br>B: Drop D | same as in-game |
 | Buddy Holly | Weezer | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | El Scorcho | Weezer | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Pork and Beans | Weezer | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
