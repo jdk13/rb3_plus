@@ -41,7 +41,6 @@
 | Wonderwall | Oasis | G: E Standard<br>B: E Standard | G: F# Standard (E Standard, capo on 2nd fret)<br>B: same as in-game |
 | (Reprise) Sandblasted Skin | Pantera | G: A A D G B E<br>B: A A D G | G: G G C F A D<br>B: G G C F |
 | Heartbreaker | Pat Benatar | G: E Standard<br>B: E Standard | same as in-game |
-| Hit Me With Your Best Shot | Pat Benatar | G: E Standard<br>B: E Standard | same as in-game |
 | Here Comes Your Man | Pixies | G: E Standard<br>B: E Standard | same as in-game |
 | Natural Disaster | Plain White T's | G: Drop D<br>B: Drop D | same as in-game |
 | 3's and 7's | Queens of the Stone Age | G: E Standard<br>B: E Standard | G: C Standard<br>B: C Standard |
@@ -75,7 +74,6 @@
 | B.Y.O.B. | System of a Down | G: Drop D<br>B: Drop D | G: Eb Drop Db<br>B: Eb Drop Db |
 | Toxicity | System of a Down | G: Drop D<br>B: Drop D | G: D Drop C<br>B: D Drop C |
 | Girlfriend Is Better | Talking Heads | G: E Standard<br>B: Drop D | same as in-game |
-| Head Over Heels | Tears for Fears | G: E Standard<br>B: E Standard | same as in-game |
 | The Metal | Tenacious D | G: Drop D<br>B: Drop D | same as in-game |
 | Pork and Beans | Weezer | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Undone (The Sweater Song) | Weezer | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
