@@ -1,10 +1,10 @@
-(floods
+(wakeupdead
    (upgrade_version 1)
-   (midi_file "songs_upgrades/floods_plus.mid")
-   (song_id 1005963)
+   (midi_file "songs_upgrades/wakeupdead_plus.mid")
+   (song_id 1005218)
    (rank
-      (real_guitar 444)
-      (real_bass 379)
+      (real_guitar 493)
+      (real_bass 449)
    )
    (real_guitar_tuning (0 0 0 0 0 0))
    (real_bass_tuning (0 0 0 0))
